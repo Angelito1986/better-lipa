@@ -1,9 +1,9 @@
 {
-  "site_name": "Lapu Lapu City Portal",
-  "site_description": "A community-run portal for the Lapu Lapu City",
+  "site_name": "Better Lipa",
+  "site_description": "A community-run portal for Lipa City",
   "hero": {
-    "title": "Welcome to BetterGov.ph",
-    "subtitle": "A community-run portal to find information of the Lapu Lapu City Government",
+    "title": "Welcome to Better Lipa",
+    "subtitle": "A community-run portal to find information about the Lipa City Government",
     "nationalId": "National ID",
     "birthCertificate": "Birth Certificate",
     "businessRegistration": "Business Registration"
@@ -29,11 +29,12 @@
     "title": "Latest News & Updates"
   },
   "footer": {
-    "copyright": "© 2025 BetterGov. All content is public domain unless otherwise specified."
+    "copyright": "© 2026 Better Lipa. All content is public domain unless otherwise specified."
   },
   "navbar": {
     "government": "Government",
     "services": "Services",
+    "2027budget": "2027 Budget",
     "hotlines": "Hotlines",
     "holidays": "Holidays"
   },

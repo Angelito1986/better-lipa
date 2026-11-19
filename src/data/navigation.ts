@@ -25,6 +25,10 @@ export const mainNavigation: NavigationItem[] = [
     label: 'Government',
     href: '/government/departments',
   },
+  {
+    label: '2027 Budget',
+    href: 'https://betterlipa2027budget.netlify.app',
+  },
 ];
 
 export const footerNavigation = {
@@ -57,6 +61,10 @@ export const footerNavigation = {
     {
       title: 'Government',
       links: [
+        {
+          label: '2027 City Budget Portal',
+          href: 'https://betterlipa2027budget.netlify.app',
+        },
         { label: 'Open Data', href: 'https://data.gov.ph' },
         { label: 'Freedom of Information', href: 'https://www.foi.gov.ph' },
         {
@@ -71,9 +79,9 @@ export const footerNavigation = {
     },
   ],
   socialLinks: [
-    { label: 'Facebook', href: 'https://facebook.com/govph' },
-    { label: 'Twitter', href: 'https://twitter.com/govph' },
-    { label: 'Instagram', href: 'https://instagram.com/govph' },
-    { label: 'YouTube', href: 'https://youtube.com/govph' },
+    {
+      label: 'Facebook',
+      href: 'https://www.facebook.com/profile.php?id=61596544258403',
+    },
   ],
 };
