@@ -1,0 +1,566 @@
+{
+  "_meta": {
+    "retrieved": "2026-10-01",
+    "note": "Only what the cited sources state. 12 senators' entries come from their Senate profile biography; the other 12 were cross-checked on 2026-10-01 against secondary sources (GMA candidate profiles, UP sa Halalan, news and fact-check outlets, the senators' own sites). Where sources disagree the entry says so. Some official pages (Senate bios, Inquirer, Rappler) could not be read by the checking tool. Levels: Basic, College, Graduate, Law, Military, Honorary, Other. 'more_sources' are additional links for the same item. Browser check 2026-10-01: Senate profile pages hold no further education data (six have no bio); Pia Cayetano's own archived CV and Vote Pilipinas (archived 2022) were read directly. Items with match:false (disputed, unconfirmed or single-source) are left out of the 'where they studied' filter."
+  },
+  "win-gatchalian": [
+    {
+      "level": "Basic",
+      "school": "Grace Christian High School, Quezon City",
+      "detail": "Elementary and secondary education",
+      "source_url": "https://senate.gov.ph/senator/Win-Gatchalian"
+    },
+    {
+      "level": "College",
+      "school": "Boston University",
+      "detail": "Degree in Finance and Operations Management, 1995",
+      "source_url": "https://senate.gov.ph/senator/Win-Gatchalian"
+    },
+    {
+      "level": "Honorary",
+      "school": "Philippine Normal University",
+      "detail": "Doctor of Education, honoris causa, 2023",
+      "source_url": "https://senate.gov.ph/senator/Win-Gatchalian"
+    },
+    {
+      "level": "Honorary",
+      "school": "Bulacan State University",
+      "detail": "Doctor of Laws, honoris causa, 2023",
+      "source_url": "https://senate.gov.ph/senator/Win-Gatchalian"
+    }
+  ],
+  "vicente-c-sotto-iii": [
+    {
+      "level": "College",
+      "school": "Colegio de San Juan de Letran",
+      "detail": "Bachelor of Arts, major in English",
+      "source_url": "https://senate.gov.ph/senator/Vicente-C.-Sotto-III"
+    }
+  ],
+  "juan-miguel-f-zubiri": [
+    {
+      "level": "College",
+      "school": "University of the Philippines Los Baños",
+      "detail": "BS Agri-Business Management",
+      "source_url": "https://senate.gov.ph/senator/Juan-Miguel-F.-Zubiri"
+    },
+    {
+      "level": "Graduate",
+      "school": "University of the Philippines Open University",
+      "detail": "Master's in Environment and Natural Resources Management",
+      "source_url": "https://senate.gov.ph/senator/Juan-Miguel-F.-Zubiri"
+    },
+    {
+      "level": "Honorary",
+      "school": "Philippine Christian University, Polytechnic University of the Philippines, Southwestern University, Bukidnon State University, Visayas State University",
+      "detail": "Honoris causa doctorates",
+      "source_url": "https://senate.gov.ph/senator/Juan-Miguel-F.-Zubiri"
+    }
+  ],
+  "alan-peter-s-cayetano": [
+    {
+      "level": "Basic",
+      "school": "De La Salle Zobel",
+      "detail": "High school",
+      "source_url": "https://senate.gov.ph/senator/Alan-Peter-S.-Cayetano"
+    },
+    {
+      "level": "College",
+      "school": "University of the Philippines Diliman",
+      "detail": "BA Political Science, 1993",
+      "source_url": "https://senate.gov.ph/senator/Alan-Peter-S.-Cayetano"
+    },
+    {
+      "level": "Law",
+      "school": "Ateneo School of Law",
+      "detail": "Juris Doctor, 1997, 2nd Honors (Silver Medalist)",
+      "source_url": "https://senate.gov.ph/senator/Alan-Peter-S.-Cayetano"
+    }
+  ],
+  "paolo-benigno-aquino-iv": [
+    {
+      "level": "Basic",
+      "school": "Ateneo de Manila Grade School and Ateneo High School",
+      "detail": "Grade school 1983–1991, high school 1991–1995",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bam-aquino/"
+    },
+    {
+      "level": "College",
+      "school": "Ateneo de Manila University",
+      "detail": "BS Management Engineering, 1995–1999, summa cum laude, valedictorian",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bam-aquino/",
+      "more_sources": [
+        "https://www.philstar.com/opinyon/2013/04/27/935373/bam-aquino"
+      ]
+    },
+    {
+      "level": "Law",
+      "school": "Ateneo de Manila Law School",
+      "detail": "2000–2001",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bam-aquino/"
+    },
+    {
+      "level": "Other",
+      "school": "Harvard Kennedy School",
+      "detail": "Executive Education Program on Public Policy and Leadership, December 2008",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bam-aquino/"
+    }
+  ],
+  "pia-s-cayetano": [
+    {
+      "level": "College",
+      "school": "University of the Philippines Diliman",
+      "detail": "BA Economics, School of Economics, 1985, cum laude",
+      "source_url": "https://halalan.up.edu.ph/cayetano-pilar-juliana-pia-s-nacionalista",
+      "more_sources": [
+        "https://web.archive.org/web/20161107215411/http://senatorpiacayetano.com/?page_id=2",
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/pia-cayetano/"
+      ]
+    },
+    {
+      "level": "Law",
+      "school": "University of the Philippines College of Law",
+      "detail": "Bachelor of Laws, 1991; academic distinction, No. 7 in her class; member of the Honor Society, Order of the Purple Feather",
+      "source_url": "https://halalan.up.edu.ph/cayetano-pilar-juliana-pia-s-nacionalista",
+      "more_sources": [
+        "https://web.archive.org/web/20161107215411/http://senatorpiacayetano.com/?page_id=2",
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/pia-cayetano/"
+      ]
+    }
+  ],
+  "ronald-m-dela-rosa": [
+    {
+      "level": "Graduate",
+      "school": "University of Southeastern Philippines, Davao City",
+      "detail": "Master's in Public Administration (1998); Doctorate in Development Administration (2006)",
+      "source_url": "https://senate.gov.ph/senator/Ronald-%22Bato%22-M.-Dela-Rosa"
+    },
+    {
+      "level": "Military",
+      "school": "Philippine Military Academy",
+      "detail": "Sinagtala Class of 1986",
+      "source_url": "https://senate.gov.ph/senator/Ronald-%22Bato%22-M.-Dela-Rosa"
+    }
+  ],
+  "joseph-victor-g-ejercito": [
+    {
+      "level": "Basic",
+      "school": "Xavier School",
+      "detail": "Elementary and secondary education",
+      "source_url": "https://senate.gov.ph/senator/Joseph-Victor-%22JV%22-G.-Ejercito"
+    },
+    {
+      "level": "College",
+      "school": "De La Salle University Manila",
+      "detail": "Political Science, 1991",
+      "source_url": "https://senate.gov.ph/senator/Joseph-Victor-%22JV%22-G.-Ejercito"
+    }
+  ],
+  "francis-g-escudero": [
+    {
+      "level": "Law",
+      "school": "University of the Philippines",
+      "detail": "Public school system of UP from kindergarten through law school",
+      "source_url": "https://senate.gov.ph/senator/Francis-%22Chiz%22-G.-Escudero"
+    },
+    {
+      "level": "Graduate",
+      "school": "Georgetown Law Center, Washington, D.C.",
+      "detail": "Master's in International and Comparative Law, 1996",
+      "source_url": "https://senate.gov.ph/senator/Francis-%22Chiz%22-G.-Escudero"
+    }
+  ],
+  "jinggoy-ejercito-estrada": [
+    {
+      "level": "Basic",
+      "school": "Ateneo de Manila University",
+      "detail": "Primary and secondary education",
+      "source_url": "https://senate.gov.ph/senator/Jinggoy-Ejercito-Estrada"
+    },
+    {
+      "level": "College",
+      "school": "University of the Philippines",
+      "detail": "AB Economics",
+      "source_url": "https://senate.gov.ph/senator/Jinggoy-Ejercito-Estrada"
+    },
+    {
+      "level": "Law",
+      "school": "Lyceum University",
+      "detail": "Studied Bachelor of Laws for four years (completion not stated)",
+      "source_url": "https://senate.gov.ph/senator/Jinggoy-Ejercito-Estrada"
+    }
+  ],
+  "christopher-lawrence-t-go": [
+    {
+      "level": "Basic",
+      "school": "Stella Maris Academy of Davao",
+      "detail": "Elementary",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bong-go/"
+    },
+    {
+      "level": "Basic",
+      "school": "La Salle Green Hills",
+      "detail": "High school, per UP sa Halalan; GMA lists a different secondary school",
+      "source_url": "https://halalan.up.edu.ph/go-christopher-lawrence-bong-tesoro-pdp-laban/",
+      "more_sources": [
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bong-go/"
+      ]
+    },
+    {
+      "level": "College",
+      "school": "De La Salle University",
+      "detail": "Management; Philstar (2018) says he graduated with an AB Management degree",
+      "source_url": "https://halalan.up.edu.ph/go-christopher-lawrence-bong-tesoro-pdp-laban/",
+      "more_sources": [
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/bong-go/",
+        "https://www.philstar.com/entertainment/2018/12/06/1874459/entertainment"
+      ],
+      "note": "Sources disagree on where he completed his degree.",
+      "match": false
+    },
+    {
+      "level": "College",
+      "school": "Ateneo de Davao University",
+      "detail": "Bachelor of Science in Marketing, per Wikipedia (which gives no citation for it) and a student publication; not in GMA or UP sa Halalan profiles",
+      "source_url": "https://en.wikipedia.org/wiki/Bong_Go",
+      "more_sources": [
+        "https://halalan2025.thebenildean.org/candidates-senatorial.html"
+      ],
+      "note": "Sources disagree on where he completed his degree.",
+      "match": false
+    }
+  ],
+  "risa-hontiveros": [
+    {
+      "level": "Basic",
+      "school": "Saint Scholastica's College, Manila",
+      "detail": "High school",
+      "source_url": "https://www.positivelyfilipino.com/magazine/senator-risa-hontiveros-woman-of-substance"
+    },
+    {
+      "level": "College",
+      "school": "Ateneo de Manila University",
+      "detail": "AB Social Sciences, cum laude (1987 per Wikipedia)",
+      "source_url": "https://atenews.ph/risa-hontiveros",
+      "more_sources": ["https://en.wikipedia.org/wiki/Risa_Hontiveros"]
+    }
+  ],
+  "panfilo-m-lacson": [
+    {
+      "level": "Basic",
+      "school": "Bayan Luma Elementary School; Imus Institute",
+      "detail": "Basic education",
+      "source_url": "https://senate.gov.ph/senator/Panfilo-%22Ping%22-M.-Lacson"
+    },
+    {
+      "level": "Military",
+      "school": "Philippine Military Academy",
+      "detail": "Matatag Class of 1971",
+      "source_url": "https://senate.gov.ph/senator/Panfilo-%22Ping%22-M.-Lacson"
+    },
+    {
+      "level": "Graduate",
+      "school": "Pamantasan ng Lungsod ng Maynila",
+      "detail": "Master's in Government Management, 1996",
+      "source_url": "https://senate.gov.ph/senator/Panfilo-%22Ping%22-M.-Lacson"
+    },
+    {
+      "level": "Honorary",
+      "school": "Pamantasan ng Lungsod ng Maynila",
+      "detail": "Doctor of Laws, honoris causa, March 2019",
+      "source_url": "https://senate.gov.ph/senator/Panfilo-%22Ping%22-M.-Lacson"
+    }
+  ],
+  "manuel-m-lapid": [
+    {
+      "level": "Basic",
+      "school": "Porac Central School, Porac, Pampanga",
+      "detail": "Elementary, 1962–1968",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/lito-lapid/"
+    },
+    {
+      "level": "Basic",
+      "school": "St. Catherine Academy, Porac, Pampanga",
+      "detail": "Secondary, 1968–1972",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/lito-lapid/"
+    },
+    {
+      "level": "College",
+      "school": "No college listed",
+      "detail": "No college attendance or degree is listed in his candidate profile; Wikipedia says he did not enroll for tertiary education",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/lito-lapid/",
+      "more_sources": ["https://en.wikipedia.org/wiki/Lito_Lapid"]
+    },
+    {
+      "level": "Honorary",
+      "school": "Pampanga Agricultural College",
+      "detail": "Bachelor of Science in Agriculture, honoris causa (year not stated)",
+      "source_url": "https://verafiles.org/articles/manuel-lito-lapid"
+    }
+  ],
+  "loren-legarda": [
+    {
+      "level": "Basic",
+      "school": "Assumption (San Lorenzo, Makati)",
+      "detail": "High school, graduated 1978",
+      "source_url": "https://lorenlegarda.com.ph/milestones",
+      "more_sources": [
+        "https://www.mmsu.edu.ph/news/a-glimpse-of-our-commencement-speaker"
+      ]
+    },
+    {
+      "level": "College",
+      "school": "University of the Philippines Diliman",
+      "detail": "Broadcast Communications, 1981, cum laude",
+      "source_url": "https://lorenlegarda.com.ph/milestones",
+      "more_sources": [
+        "https://www.mmsu.edu.ph/news/a-glimpse-of-our-commencement-speaker"
+      ]
+    },
+    {
+      "level": "Graduate",
+      "school": "National Defense College of the Philippines",
+      "detail": "Master's in National Security Administration, 1993",
+      "source_url": "https://lorenlegarda.com.ph/milestones",
+      "more_sources": [
+        "https://www.mmsu.edu.ph/news/a-glimpse-of-our-commencement-speaker"
+      ]
+    },
+    {
+      "level": "Honorary",
+      "school": "University of the Philippines",
+      "detail": "Doctor of Laws, honoris causa, 24 June 2018",
+      "source_url": "https://lorenlegarda.com.ph/legarda-receives-honorary-doctorate-degree-from-up/"
+    },
+    {
+      "level": "Honorary",
+      "school": "Nueva Vizcaya State University",
+      "detail": "Doctor of Education, honoris causa, October 2025",
+      "source_url": "https://lorenlegarda.com.ph/legarda-conferred-doctor-of-education-degree-honors-teachers-and-pushes-education-reform/"
+    },
+    {
+      "level": "Honorary",
+      "school": "University of Antique",
+      "detail": "Doctor of Humanities, honoris causa, 2025",
+      "source_url": "https://lorenlegarda.com.ph/legarda-conferred-doctor-of-education-degree-honors-teachers-and-pushes-education-reform/"
+    }
+  ],
+  "rodante-d-marcoleta": [
+    {
+      "level": "College",
+      "school": "School not confirmed (a student-run profile says University of the Philippines)",
+      "detail": "Bachelor of Arts, 1973",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/rodante-marcoleta/",
+      "more_sources": [
+        "https://bluevote.addu.edu.ph/2024/11/03/rodante-dizon-marcoleta/"
+      ],
+      "match": false
+    },
+    {
+      "level": "Law",
+      "school": "San Sebastian College – Recoletos, per Wikipedia",
+      "detail": "Bachelor of Laws, 1989 (GMA lists the degree and year but not the school)",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/rodante-marcoleta/",
+      "more_sources": ["https://en.wikipedia.org/wiki/Rodante_Marcoleta"]
+    },
+    {
+      "level": "Graduate",
+      "school": "University of the East",
+      "detail": "Master's in Business Administration (GMA lists years 1980/2009, unclear)",
+      "source_url": "https://bluevote.addu.edu.ph/2024/11/03/rodante-dizon-marcoleta/",
+      "more_sources": [
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/rodante-marcoleta/",
+        "https://web.archive.org/web/20220524000914/https://votepilipinas.com/candidate/marcoleta_rodante.html"
+      ]
+    },
+    {
+      "level": "Graduate",
+      "school": "University of the Philippines Diliman",
+      "detail": "Doctorate in Public Administration, 2020 (Vote Pilipinas, Wikipedia); GMA lists a doctoral program dated 2011",
+      "source_url": "https://web.archive.org/web/20220524000914/https://votepilipinas.com/candidate/marcoleta_rodante.html",
+      "more_sources": [
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/rodante-marcoleta/",
+        "https://en.wikipedia.org/wiki/Rodante_Marcoleta"
+      ]
+    },
+    {
+      "level": "Other",
+      "school": "Harvard Kennedy School",
+      "detail": "Developmental Leadership (Vote Pilipinas); GMA and a student-run profile call it a fellowship, 2017",
+      "source_url": "https://web.archive.org/web/20220524000914/https://votepilipinas.com/candidate/marcoleta_rodante.html",
+      "more_sources": [
+        "https://www.gmanetwork.com/news/eleksyon/2025/candidates/rodante-marcoleta/",
+        "https://bluevote.addu.edu.ph/2024/11/03/rodante-dizon-marcoleta/"
+      ]
+    }
+  ],
+  "imee-r-marcos": [
+    {
+      "level": "Basic",
+      "school": "Institucion Teresiana (now Saint Pedro Poveda College), Quezon City",
+      "detail": "Until Grade 4",
+      "source_url": "https://www.martiallawchroniclesproject.com/remembering-archimedes-trajano/",
+      "more_sources": ["https://en.wikipedia.org/wiki/Imee_Marcos"]
+    },
+    {
+      "level": "Basic",
+      "school": "Assumption Convent, Manila",
+      "detail": "Grade 5 until first year high school",
+      "source_url": "https://www.martiallawchroniclesproject.com/remembering-archimedes-trajano/",
+      "more_sources": ["https://en.wikipedia.org/wiki/Imee_Marcos"]
+    },
+    {
+      "level": "Basic",
+      "school": "American School, Makati",
+      "detail": "Secondary",
+      "source_url": "https://www.martiallawchroniclesproject.com/remembering-archimedes-trajano/"
+    },
+    {
+      "level": "College",
+      "school": "Princeton University",
+      "detail": "Attended fall 1973 to spring 1976 and fall 1977 to spring 1979; a Princeton spokesperson said no record shows a degree was awarded",
+      "source_url": "https://www.philstar.com/headlines/2019/02/27/1897227/not-average-student-princeton-student-newspaper-reports-imee-marcos-didnt-graduate-there/amp/",
+      "more_sources": [
+        "https://2019.tsek.ph/articles/despite-evidence-imee-marcos-insists-she-graduated-princeton.html"
+      ],
+      "note": "Her educational record was publicly disputed in 2019. See the sources.",
+      "match": false
+    },
+    {
+      "level": "College",
+      "school": "University of the Philippines",
+      "detail": "UP's 2019 statement: no graduation or honors on record; non-degree courses in Arts and Sciences and in the College of Law",
+      "source_url": "https://2019.tsek.ph/articles/false-imee-marcos-graduated-cum-laude-college-law.html",
+      "match": false
+    }
+  ],
+  "robinhood-c-padilla": [
+    {
+      "level": "Basic",
+      "school": "Siena College, Quezon City",
+      "detail": "Elementary",
+      "source_url": "https://www.philstar.com/entertainment/2009/04/17/458044/robin-educator",
+      "more_sources": ["https://en.wikipedia.org/wiki/Robin_Padilla"]
+    },
+    {
+      "level": "Basic",
+      "school": "Saint Louis University, Baguio",
+      "detail": "Early part of high school",
+      "source_url": "https://www.philstar.com/entertainment/2009/04/17/458044/robin-educator"
+    },
+    {
+      "level": "College",
+      "school": "Philippine College of Criminology",
+      "detail": "Took a BS Criminology course; the school calls him an alumnus; completion is not stated in these sources",
+      "source_url": "https://www.philstar.com/entertainment/2009/04/17/458044/robin-educator",
+      "more_sources": [
+        "https://pccr.edu.ph/2023/09/19/from-criminal-to-criminologist-sen-robin-padilla-on-pccr-transforming-his-life/"
+      ]
+    }
+  ],
+  "francis-pangilinan": [
+    {
+      "level": "Law",
+      "school": "Law school not named in the Senate profile",
+      "detail": "Law degree",
+      "source_url": "https://senate.gov.ph/senator/Francis-%22Kiko%22-Pangilinan"
+    },
+    {
+      "level": "Graduate",
+      "school": "Harvard Kennedy School",
+      "detail": "Master's in Public Administration, 1998 (Edward S. Mason Fellow)",
+      "source_url": "https://senate.gov.ph/senator/Francis-%22Kiko%22-Pangilinan"
+    }
+  ],
+  "erwin-t-tulfo": [
+    {
+      "level": "College",
+      "school": "University of the East, Manila",
+      "detail": "BS Business Administration (Special Degree program), 2005",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/erwin-tulfo/",
+      "more_sources": ["https://verafiles.org/articles/erwin-tulfo"]
+    }
+  ],
+  "raffy-t-tulfo": [
+    {
+      "level": "Basic",
+      "school": "Holy Trinity College, Puerto Princesa City",
+      "detail": "Educated here (level not stated)",
+      "source_url": "https://senate.gov.ph/senator/Raffy-T.-Tulfo"
+    },
+    {
+      "level": "Basic",
+      "school": "Trinity College of Quezon City",
+      "detail": "Educated here (level not stated)",
+      "source_url": "https://senate.gov.ph/senator/Raffy-T.-Tulfo"
+    },
+    {
+      "level": "College",
+      "school": "Ateneo de Davao University",
+      "detail": "Educated here (level not stated)",
+      "source_url": "https://senate.gov.ph/senator/Raffy-T.-Tulfo"
+    }
+  ],
+  "joel-villanueva": [
+    {
+      "level": "Basic",
+      "school": "University of Santo Tomas",
+      "detail": "Junior High School alumnus",
+      "source_url": "https://www.ust.edu.ph/senator-joel-villanueva-jhs-and-commerce-alumnus-meets-fr-rector-gives-pep-talk-to-growling-tigers/"
+    },
+    {
+      "level": "College",
+      "school": "University of Santo Tomas",
+      "detail": "College of Commerce and Business Administration alumnus; BS Commerce, major in Economics, 1996 (degree details from Wikipedia only)",
+      "source_url": "https://www.ust.edu.ph/senator-joel-villanueva-jhs-and-commerce-alumnus-meets-fr-rector-gives-pep-talk-to-growling-tigers/",
+      "more_sources": ["https://en.wikipedia.org/wiki/Joel_Villanueva"]
+    },
+    {
+      "level": "Other",
+      "school": "Harvard Extension School",
+      "detail": "Special Studies in Business Administration, 1996–1998 (Wikipedia only; single source)",
+      "source_url": "https://en.wikipedia.org/wiki/Joel_Villanueva",
+      "match": false
+    }
+  ],
+  "camille-a-villar": [
+    {
+      "level": "College",
+      "school": "Ateneo de Manila University",
+      "detail": "Bachelor of Science in Management (GMA); Lifestyle Asia says Business Management",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/camille-villar/",
+      "more_sources": [
+        "https://lifestyleasia-onemega.com/people/a-contradiction-of-sorts-getting-to-know-the-multi-hyphenated-camille-villar/"
+      ]
+    },
+    {
+      "level": "Graduate",
+      "school": "IESE Business School, University of Navarra, Barcelona",
+      "detail": "Master of Business Administration",
+      "source_url": "https://www.gmanetwork.com/news/eleksyon/2025/candidates/camille-villar/",
+      "more_sources": [
+        "https://lifestyleasia-onemega.com/people/a-contradiction-of-sorts-getting-to-know-the-multi-hyphenated-camille-villar/"
+      ]
+    }
+  ],
+  "mark-a-villar": [
+    {
+      "level": "College",
+      "school": "University of Pennsylvania",
+      "detail": "BS in Political Science, Philosophy, and Economics",
+      "source_url": "https://senate.gov.ph/senator/Mark-A.-Villar"
+    },
+    {
+      "level": "Graduate",
+      "school": "University of Chicago Booth School of Business",
+      "detail": "Master's in Business Administration",
+      "source_url": "https://senate.gov.ph/senator/Mark-A.-Villar"
+    },
+    {
+      "level": "Honorary",
+      "school": "University of the Philippines College of Law",
+      "detail": "Doctor of Laws, honoris causa",
+      "source_url": "https://senate.gov.ph/senator/Mark-A.-Villar"
+    }
+  ]
+}

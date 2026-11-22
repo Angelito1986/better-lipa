@@ -29,6 +29,10 @@ export const mainNavigation: NavigationItem[] = [
     label: '2027 Budget',
     href: 'https://betterlipa2027budget.netlify.app',
   },
+  {
+    label: 'Sino Sila',
+    href: '/sino-sila/index.html',
+  },
 ];
 
 export const footerNavigation = {
@@ -64,6 +68,10 @@ export const footerNavigation = {
         {
           label: '2027 City Budget Portal',
           href: 'https://betterlipa2027budget.netlify.app',
+        },
+        {
+          label: 'Sino Sila? Lawmakers Tracker',
+          href: '/sino-sila/index.html',
         },
         { label: 'Open Data', href: 'https://data.gov.ph' },
         { label: 'Freedom of Information', href: 'https://www.foi.gov.ph' },
